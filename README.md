@@ -1,8 +1,7 @@
 # Esp32BlePart3
-BLE for ESP32: examples of how to scale to very many characteristics and how to send commands from the client to the server
-
-# Updates
-19.05.2023: I added an example for a client with many characteristics
+NOTE: it was getting a bit confusing to have the two topics discussed in this single Workspace, so I created individual workspaces:
+* https://github.com/mo-thunderz/Esp32BleServerCallback
+* https://github.com/mo-thunderz/Esp32BleManyChars
 
 # Explanation for the Code:
 https://www.youtube.com/watch?v=zxs__8CykDA
